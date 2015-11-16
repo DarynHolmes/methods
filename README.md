@@ -24,23 +24,22 @@ Once this is working, move the method into a file called `rectangle`.
 ### Task 4
 Write a method that converts miles to kilometres.
 
-### Task 4
+### Task 5
 Write a method called `confirm_password`. This method should take two strings `password` and `password_confimation`. It should return true only if the `password` matches the  `password_confimation`.
 
-
-### Task 5
+### Task 6
 Write a method that converts millilitres to litres.
 
-### Task 6
+### Task 7
 Write a method that takes an array of numbers as input, and returns an array of all the even numbers.
 
-### Task 7
+### Task 8
 Write a method that takes an array of numbers and words, and returns an array of all the numbers.
 
-### Task 8
+### Task 9
 Write a method that takes a string as input, and prints out the current date followed by the supplied string. This is basically like a log file.
 
-### Task 9
+### Task 10
 Write a method that takes a populated hash, and prints out all the keys and values of the hash.
 
 
