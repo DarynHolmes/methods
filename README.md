@@ -15,7 +15,7 @@ Write a method that can covert fahrenheit to celsius, and then another function 
 Use these methods in your code...
 
 ### Task 3
-Write a method called `reactang_area`, that accepts two parameters called `width` and `height`. 
+Write a method called `rectangle_area`, that accepts two parameters called `width` and `height`. 
 
 This method should return the area of the rectangle. 
 
