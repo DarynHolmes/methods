@@ -27,7 +27,7 @@ Write a method that converts milliliters to liters.
 Write a method that takes an array of numbers as input, and returns an array of all the even numbers.
 
 ### Task 7
-Write a method that takes an array of numbers, and words, and returns an array of all the numbers.
+Write a method that takes an array of numbers and words, and returns an array of all the numbers.
 
 ### Task 8
 Write a method that takes a string as input, and prints out the current date followed by the supplied string. This is basically like a log file.
