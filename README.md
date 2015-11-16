@@ -56,5 +56,6 @@ The main elements which you need to know are:
  - table
  - ol (ordered list), ul (unordered list)
  - a (anchor)
+ - img (image)
 
 
