@@ -19,7 +19,7 @@ Write a method called `rectangle_area`, that accepts two parameters called `widt
 
 This method should return the area of the rectangle. 
 
-Once this is working, move the method into a file called `rectangle`.
+Once this is working, move the method into a file called `rectangle.rb`.
 
 ### Task 4
 Write a method that converts miles to kilometres.
