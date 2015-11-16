@@ -6,22 +6,22 @@
 Read up on methods: http://ruby.bastardsbook.com/chapters/methods/
 
 ### Task 2
-Write a method that can covert fahrenheit to celsius, and then onother function that can conver back to fahrenheit.
+Write a method that can covert fahrenheit to celsius, and then another function that can convert back to fahrenheit.
 
 Use these methods in your code...
 
 ### Task 3
 Write a method called `reactang_area`, that accepts two parameters called `width` and `height`. 
 
-This method should return the area of the rectand.
+This method should return the area of the rectangle. 
 
 Once this is working, move the method into a file called `rectangle`.
 
 ### Task 4
-Write a method that converts miles to killometers.
+Write a method that converts miles to kilometres.
 
 ### Task 5
-Write a method that converts milliliters to liters.
+Write a method that converts millilitres to litres.
 
 ### Task 6
 Write a method that takes an array of numbers as input, and returns an array of all the even numbers.
@@ -40,6 +40,6 @@ Write a method that takes a populated hash, and prints out all the keys and valu
 
 Read up untill classes here - http://www.w3schools.com/html/default.asp   
 
-Don't worry too much about styling and CSS, a basic understading will be good   
+Don't worry too much about styling and CSS, a basic understanding will be good enough
 
 
