@@ -49,4 +49,12 @@ Read up untill classes here - http://www.w3schools.com/html/default.asp
 
 Don't worry too much about styling and CSS, a basic understanding will be good enough
 
+The main elements which you need to know are:
+ - h1, h2, h3 etc
+ - div
+ - span
+ - table
+ - ol (ordered list), ul (unordered list)
+ - a (anchor)
+
 
