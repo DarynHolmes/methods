@@ -3,7 +3,11 @@
 ## Homework
 
 ### Task 1
-Read up on methods: http://ruby.bastardsbook.com/chapters/methods/
+Read up on methods on at least one of these: 
+
+https://rubymonk.com/learning/books/1-ruby-primer/chapters/19-ruby-methods/lessons/69-new-lesson
+
+http://ruby.bastardsbook.com/chapters/methods/
 
 ### Task 2
 Write a method that can covert fahrenheit to celsius, and then another function that can convert back to fahrenheit.
