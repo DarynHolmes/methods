@@ -24,6 +24,10 @@ Once this is working, move the method into a file called `rectangle`.
 ### Task 4
 Write a method that converts miles to kilometres.
 
+### Task 4
+Write a method called `confirm_password`. This method should take two strings `password` and `password_confimation`. It should return true only if the `password` matches the  `password_confimation`.
+
+
 ### Task 5
 Write a method that converts millilitres to litres.
 
